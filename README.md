@@ -5,7 +5,7 @@
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
-## start ssh-agent in the key background
+## copy the key
 ```
 clip < ~/.ssh/id_ed25519.pub
 ```
