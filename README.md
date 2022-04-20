@@ -20,4 +20,5 @@ clip < ~/.ssh/id_ed25519.pub
  ssh-add ~/.ssh/id_ed25519
  ```
  
- Now your git clone using ssh will work.
+ ## add the key inside version control
+ Now add your key to the version control whether bibucket, Github or Gitlab etc and then clone your repository with ssh.
